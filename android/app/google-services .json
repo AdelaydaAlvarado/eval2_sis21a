@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761605903188",
+    "project_id": "eval2-sis21a-d6d93",
+    "storage_bucket": "eval2-sis21a-d6d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761605903188:android:07a01605929128c56a6ec1",
+        "android_client_info": {
+          "package_name": "com.adelayda_keiraitca.eval2_sis21a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGW-2lvdlaEhCbwvHLXboz8GrnxZa4qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
